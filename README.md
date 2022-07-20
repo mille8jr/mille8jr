@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mille8jr
+- 👀 I’m interested in front end web development. I also amd a musician and love to play the drums and piano.
+- 🌱 I’m currently learning Javascript.
+- 💞️ I’m looking to collaborate on anything to gain some experience!
+- 📫 How to reach me - email: mille8jr@icloud.com
